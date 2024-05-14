@@ -4,6 +4,7 @@ on:
     branches: [ main, release ]
     paths-ignore:
       - '**/README.md'
+
 jobs:
   build:
     runs-on: ubuntu-latest
