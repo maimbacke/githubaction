@@ -68,7 +68,6 @@
 						</exclude>
 					</excludes>
 					<image>
-
 						<name>maimbacke/${project.artifactId}:${project.version}</name>
 					</image>
 					<docker>
